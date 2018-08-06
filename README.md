@@ -1,4 +1,6 @@
-#BANKEX Foundation Plasma block producer implementation
+# BANKEX Foundation Plasma block producer implementation
+
+# NOT READY FOR PRODUCTION, WIP, FOR DEMO AND TESTING PURPOSES ONLY
 
 ## Technical overview
 
